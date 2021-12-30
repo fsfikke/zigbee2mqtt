@@ -1,5 +1,5 @@
 ![alt text][logo]
-# Home Assistant Add-on: Zigbee2mqtt
+# Home Assistant Add-on: Zigbee2mqtt-f
 Run [Zigbee2mqtt] as a Home Assistant Add-on
 
 ## Installation
